@@ -1,4 +1,3 @@
-require pry
 def base_hash
   monopoly = {
     :railroads=> {
@@ -51,7 +50,7 @@ monopoly = {
   }
 }
 end
-pry
+
 def monopoly_with_fourth_tier
 monopoly = {
   :railroads=>
