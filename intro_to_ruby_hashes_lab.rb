@@ -1,3 +1,4 @@
+require "pry"
 def base_hash
   monopoly = {
     :railroads=> {
@@ -84,4 +85,5 @@ monopoly = {
     }
   }
 }
+binding.pry
 end 
