@@ -87,3 +87,4 @@ monopoly = {
 }
 binding.pry
 end 
+# expect(monopoly_with_fourth_tier[:railroads][:names][:reading_railroad][:mortgage_value]).to eq(100)
